@@ -23,4 +23,4 @@ Here are some of my skills:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![Bash](https://img.shields.io/badge/Bash-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ## Contacts
-[University Email](1a_2023_31@zs1pruszkow.onmicrosoft.com)
+[Student Email](1a_2023_31@zs1pruszkow.onmicrosoft.com)
