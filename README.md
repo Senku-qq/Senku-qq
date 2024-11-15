@@ -1,4 +1,4 @@
-##Hi there! 👋
+## Hi there! 👋
 I'm learning Python 🐍 and working towards becoming a DevOps engineer 🚀.
 Here are some of my skills:
 
